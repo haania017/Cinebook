@@ -36,7 +36,7 @@ cinebook_v2_full/
 │       └── js/          # Authentication helpers, seat renderer, receipt rendering, & API calls
 ├── requirements.txt     # Python application dependency list
 ├── setup_mongodb.py     # Independent MongoDB database creation and seeder script
-└── README2.md           # This comprehensive guide
+└── README.md           # This comprehensive guide
 ```
 
 ---
